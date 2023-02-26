@@ -1,0 +1,15 @@
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\bin\Debug\net6.0\Finals 1.exe
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\bin\Debug\net6.0\Finals 1.deps.json
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\bin\Debug\net6.0\Finals 1.runtimeconfig.json
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\bin\Debug\net6.0\Finals 1.dll
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\bin\Debug\net6.0\Finals 1.pdb
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\obj\Debug\net6.0\Finals 1.csproj.AssemblyReference.cache
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\obj\Debug\net6.0\Finals 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\obj\Debug\net6.0\Finals 1.AssemblyInfoInputs.cache
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\obj\Debug\net6.0\Finals 1.AssemblyInfo.cs
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\obj\Debug\net6.0\Finals 1.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\obj\Debug\net6.0\Finals 1.dll
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\obj\Debug\net6.0\refint\Finals 1.dll
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\obj\Debug\net6.0\Finals 1.pdb
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\obj\Debug\net6.0\Finals 1.genruntimeconfig.cache
+C:\Users\Kenneth\Documents\C#\Planner\Finals 1\obj\Debug\net6.0\ref\Finals 1.dll
